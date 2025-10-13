@@ -6,3 +6,5 @@ keras
 kagglehub
 matplotlib
 seaborn
+jupyter
+ipywidgets

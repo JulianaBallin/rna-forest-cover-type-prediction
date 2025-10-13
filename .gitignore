@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Ambiente virtual
+.venv/
+venv/
+
+# Arquivos de IDE (VS Code)
+.vscode/
+
+# Jupyter/Python temporários
+.ipynb_checkpoints
+*.tmp
+*.log
+

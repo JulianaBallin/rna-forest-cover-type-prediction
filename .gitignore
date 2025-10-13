@@ -8,6 +8,7 @@ venv/
 
 # Arquivos de IDE (VS Code)
 .vscode/
+.history/
 
 # Jupyter/Python temporários
 .ipynb_checkpoints

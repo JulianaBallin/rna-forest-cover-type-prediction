@@ -10,6 +10,7 @@ venv/
 .vscode/
 .history/
 .history
+.history/*
 
 # Jupyter/Python temporários
 .ipynb_checkpoints

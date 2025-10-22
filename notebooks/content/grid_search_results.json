@@ -1,0 +1,47 @@
+{
+  "best": {
+    "hidden_dim": 256,
+    "lr": 0.001,
+    "batch_size": 256,
+    "epochs": 8
+  },
+  "best_score": 0.8661752025408885,
+  "results": [
+    [
+      {
+        "hidden_dim": 128,
+        "lr": 0.001,
+        "batch_size": 256,
+        "epochs": 8
+      },
+      0.8351636654141267
+    ],
+    [
+      {
+        "hidden_dim": 128,
+        "lr": 0.0001,
+        "batch_size": 256,
+        "epochs": 8
+      },
+      0.7596138298253013
+    ],
+    [
+      {
+        "hidden_dim": 256,
+        "lr": 0.001,
+        "batch_size": 256,
+        "epochs": 8
+      },
+      0.8661752025408885
+    ],
+    [
+      {
+        "hidden_dim": 256,
+        "lr": 0.0001,
+        "batch_size": 256,
+        "epochs": 8
+      },
+      0.7822856159516258
+    ]
+  ]
+}

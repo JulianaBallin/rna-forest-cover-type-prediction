@@ -1,0 +1,13 @@
+{
+  "n_total_available": 581012,
+  "n_used_sample": 581012,
+  "best_cfg": {
+    "hidden_dim": 256,
+    "lr": 0.001,
+    "batch_size": 256,
+    "epochs": 8
+  },
+  "best_cv_f1": 0.8661752025408885,
+  "model_path": "content/cover_mlp_best.pth",
+  "scaler_path": "content/cover_scaler.pkl"
+}
